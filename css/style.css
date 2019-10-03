@@ -1,0 +1,42 @@
+
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+.OpenSans{
+	font-family: 'Open Sans', sans-serif;
+}
+.BadScript {
+	font-family: 'Bad Script', sans-serif;
+}
+.Lobster {
+	font-family: 'Lobster', sans-serif;
+}
+.Bebas {
+	font-family: 'BebasRegular', sans-serif;
+}
+
+
+
+
+
+@font-face {
+	font-family: "BebasRegular";
+	src: url("/fonts/BebasRegular/BebasRegular.eot");
+	src: url("/fonts/BebasRegular/BebasRegular.eot?#iefix")format("embedded-opentype"),
+	url("/fonts/BebasRegular/BebasRegular.woff") format("woff"),
+	url("/fonts/BebasRegular/BebasRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
